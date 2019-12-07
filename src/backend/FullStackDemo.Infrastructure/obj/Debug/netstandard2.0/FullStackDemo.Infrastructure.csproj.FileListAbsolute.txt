@@ -1,0 +1,11 @@
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/bin/Debug/netstandard2.0/FullStackDemo.Infrastructure.deps.json
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/bin/Debug/netstandard2.0/FullStackDemo.Infrastructure.dll
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/bin/Debug/netstandard2.0/FullStackDemo.Infrastructure.pdb
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/bin/Debug/netstandard2.0/FullStackDemo.Core.dll
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/bin/Debug/netstandard2.0/FullStackDemo.Core.pdb
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/obj/Debug/netstandard2.0/FullStackDemo.Infrastructure.csprojAssemblyReference.cache
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/obj/Debug/netstandard2.0/FullStackDemo.Infrastructure.AssemblyInfoInputs.cache
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/obj/Debug/netstandard2.0/FullStackDemo.Infrastructure.AssemblyInfo.cs
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/obj/Debug/netstandard2.0/FullStackDemo.Infrastructure.csproj.CopyComplete
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/obj/Debug/netstandard2.0/FullStackDemo.Infrastructure.dll
+/Users/jantech/Development/GitHubProjects/full-stack-web-app-tutorial/src/backend/FullStackDemo.Infrastructure/obj/Debug/netstandard2.0/FullStackDemo.Infrastructure.pdb
